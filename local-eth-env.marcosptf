@@ -1,0 +1,28 @@
+https://ethereum.org/pt/developers/local-environment/
+
+#############################
+#lib para criar novo app eth
+https://github.com/PaulRBerg/create-eth-app
+
+#########################
+#template para solidity
+https://github.com/paulrberg/hardhat-template
+
+##############################
+#paas para deploy contracts
+https://www.web3labs.com/epirus-explorer
+
+##########
+#test contracts
+https://github.com/eth-brownie/brownie
+https://trufflesuite.com/
+https://getwaffle.io/
+
+#################
+#eth dev stack
+https://github.com/scaffold-eth/scaffold-eth
+https://getfoundry.sh/
+https://framework.embarklabs.io/
+
+
+
